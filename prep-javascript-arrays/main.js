@@ -11,5 +11,5 @@ console.log("The third element in the array is " + thirdElement)
 let length = languages.length
 console.log("The length of the array is " + length)
 
-let lastElement = languages[5]
+let lastElement = languages[length - 1]
 console.log("The last element in the array is " + lastElement)
